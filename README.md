@@ -63,6 +63,7 @@ Coming (hopefully) soon: Bluetooth support! Stay tuned.
   > @siddacious and @kdb424. It is our most-recommended MCU until [the ItsyBitsy is
   > updated with an nRF52840
   > chip](https://blog.adafruit.com/2019/01/26/comingsoon-itsybitsy-nrf52480-runs-circuitpython-adafruit-circuitpython-adafruit-circuitpython/)
+  > [Adafruit ItsyBitsy nRF52840 Express - Bluetooth LE](https://www.adafruit.com/product/4481) now exist...
 
   > Some other controllers, such as the [Feather M0 Express](https://www.adafruit.com/product/3403),
   > are usable in reduced functionality modes and may require custom hackery.
